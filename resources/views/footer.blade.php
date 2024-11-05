@@ -115,7 +115,7 @@
             <div class="col mt-3">
                 <div><a href="#">
                         <img src="./assets/image/icon/New folder/Call.svg" alt="">
-                        <p>تماس با ما</p>
+                        <p style="font-size: 13px">تماس با ما</p>
                     </a></div>
             </div>
 

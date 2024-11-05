@@ -347,7 +347,7 @@
 
         </ul>
 
-        <div class="row mt-5 text-center">
+        <div class="row mt-2 text-center">
 
             <div class="col-6 col-md p-1">
                 <div style="background-color: white;border-radius: 18px;" class="mx-1">
@@ -470,7 +470,7 @@
             </li>
         </ul>
 
-        <div class="row mt-5 text-center">
+        <div class="row mt-2 text-center">
 
             <div class="col-6 col-md p-1">
                 <div style="background-color: white;border-radius: 18px;" class="mx-1">
@@ -525,7 +525,7 @@
 
         </ul>
 
-        <div class="row mt-5 text-center">
+        <div class="row mt-2 text-center">
 
             <div class="col-6 col-md p-1">
                 <div style="background-color: white;border-radius: 18px;" class="mx-1">

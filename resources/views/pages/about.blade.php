@@ -17,7 +17,7 @@
     <div class="row">
 
         <div class="col text-center bg-white rounded-4 m-2">
-            <div class="p-3"><img src="./assets/image/questions 1.png" class="img-fluid bg-info " alt=""> </div>
+            <div class="p-3"><img src="./assets/image/personal/2س1.jpg" class="img-fluid bg-info " alt=""> </div>
             <div><p>مهراد رضایی</p></div>
         </div>
         <div class="col text-center bg-white rounded-4 m-2">
@@ -37,7 +37,7 @@
             <div><p>مهدی رسول نیا</p></div>
         </div>
         <div class="col text-center bg-white rounded-4 m-2">
-            <div class="p-3"><img src="./assets/image/questions 1.png" class="img-fluid bg-info " alt=""> </div>
+            <div class="p-3"><img src="./assets/image/personal/photo_2024-11-05_09-23-29.jpg" class="img-fluid bg-info " alt=""> </div>
             <div><p>عرفان طباطبایی </p></div>
         </div>
 

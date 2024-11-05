@@ -416,7 +416,7 @@
 
             <div class="col-6 col-md p-1">
                 <div style="background-color: white;border-radius: 18px;" class="mx-1">
-                    <img src="./assets/image/site graphic/photo_5_2024-11-05_10-02-14.jpg" alt="" class="img-fluid "
+                    <img src="./assets/image/site graphic/photo_16_2024-11-05_12-52-34.jpg" alt="" class="img-fluid "
                          style="width: 90%;margin-top: 1rem;">
                     <p style="color: #004087;padding: 20px 0 20px 0;margin: 0;">اپلیکشن صالحین</p>
                 </div>
@@ -425,7 +425,7 @@
 
             <div class="col-6 col-md p-1">
                 <div style="background-color: white;border-radius: 18px;" class="mx-1">
-                    <img src="./assets/image/site graphic/photo_4_2024-11-05_10-02-14.jpg" alt="" class="img-fluid "
+                    <img src="./assets/image/site graphic/photo_15_2024-11-05_12-52-34.jpg" alt="" class="img-fluid "
                          style="width: 90%;margin-top: 1rem;">
                     <p style="color: #004087;padding: 20px 0 20px 0;margin: 0;">اپلیکشن صالحین</p>
                 </div>
@@ -433,7 +433,7 @@
 
             <div class="col-6 col-md p-1">
                 <div style="background-color: white;border-radius: 18px;" class="mx-1">
-                    <img src="./assets/image/site graphic/photo_3_2024-11-05_10-02-14.jpg" alt="" class="img-fluid "
+                    <img src="./assets/image/site graphic/photo_17_2024-11-05_12-52-34.jpg" alt="" class="img-fluid "
                          style="width: 90%;margin-top: 1rem;">
                     <p style="color: #004087;padding: 20px 0 20px 0;margin: 0;">اپلیکشن صالحین</p>
                 </div>
@@ -441,7 +441,7 @@
 
             <div class="col-6 col-md p-1">
                 <div style="background-color: white;border-radius: 18px;" class="mx-1">
-                    <img src="./assets/image/site graphic/photo_2_2024-11-05_10-02-14.jpg" alt="" class="img-fluid "
+                    <img src="./assets/image/site graphic/photo_18_2024-11-05_12-52-34.jpg" alt="" class="img-fluid "
                          style="width: 90%;margin-top: 1rem;">
                     <p style="color: #004087;padding: 20px 0 20px 0;margin: 0;">اپلیکشن صالحین</p>
                 </div>
@@ -474,7 +474,7 @@
 
             <div class="col-6 col-md p-1">
                 <div style="background-color: white;border-radius: 18px;" class="mx-1">
-                    <img src="./assets/image/networkPic/photo_1_2024-11-04_13-25-45.jpg" alt="" class="img-fluid "
+                    <img src="./assets/image/networkPic/photo_1_2024-11-05_12-42-52.jpg" alt="" class="img-fluid "
                          style="width: 90%;margin-top: 1rem; height: 90%;">
                     <p style="color: #004087;padding: 20px 0 20px 0;margin: 0;">اپلیکشن صالحین</p>
                 </div>
@@ -483,7 +483,7 @@
 
             <div class="col-6 col-md p-1">
                 <div style="background-color: white;border-radius: 18px;" class="mx-1">
-                    <img src="./assets/image/networkPic/photo_2_2024-11-04_13-25-45.jpg" alt="" class="img-fluid "
+                    <img src="./assets/image/networkPic/photo_5_2024-11-04_13-46-56.jpg" alt="" class="img-fluid "
                          style="width: 90%;margin-top: 1rem;">
                     <p style="color: #004087;padding: 20px 0 20px 0;margin: 0;">اپلیکشن صالحین</p>
                 </div>
@@ -491,7 +491,7 @@
 
             <div class="col-6 col-md p-1">
                 <div style="background-color: white;border-radius: 18px;" class="mx-1">
-                    <img src="./assets/image/networkPic/photo_3_2024-11-04_13-25-45.jpg" alt="" class="img-fluid "
+                    <img src="./assets/image/networkPic/photo_6_2024-11-04_13-46-56.jpg" alt="" class="img-fluid "
                          style="width: 90%;margin-top: 1rem;">
                     <p style="color: #004087;padding: 20px 0 20px 0;margin: 0;">اپلیکشن صالحین</p>
                 </div>
@@ -499,7 +499,7 @@
 
             <div class="col-6 col-md p-1">
                 <div style="background-color: white;border-radius: 18px;" class="mx-1 h-100">
-                    <img src="./assets/image/networkPic/photo_5_2024-11-04_13-25-45.jpg" alt="" class="img-fluid "
+                    <img src="./assets/image/networkPic/photo_8_2024-11-05_12-42-52.jpg" alt="" class="img-fluid "
                          style="width: 90%;margin-top: 1rem;
                          ">
                     <p style="color: #004087;padding: 20px 0 20px 0;margin: 0;">اپلیکشن صالحین</p>
@@ -514,7 +514,7 @@
     </div>
     <!-- payment  -->
     <div class="container mt-5">
-        <h3 class="mt-5"> خدمان پرداخت </h3>
+        <h3 class="mt-5"> خدمات پرداخت </h3>
         <ul class="nav nav-underline">
             <li class="nav-item">
                 <a class="nav-link active" aria-current="page" href="#">پوز</a>
@@ -531,7 +531,7 @@
                 <div style="background-color: white;border-radius: 18px;" class="mx-1">
                     <img src="./assets/image/Rectangle 33.svg" alt="" class="img-fluid "
                          style="width: 90%;margin-top: 1rem;">
-                    <p style="color: #004087;padding: 20px 0 20px 0;margin: 0;">اپلیکشن صالحین</p>
+                    <p style="color: #004087;padding: 20px 0 20px 0;margin: 0;"> راهکار پارکینگ و تردد</p>
                 </div>
             </div>
 
@@ -540,7 +540,7 @@
                 <div style="background-color: white;border-radius: 18px;" class="mx-1">
                     <img src="./assets/image/Rectangle 33.svg" alt="" class="img-fluid "
                          style="width: 90%;margin-top: 1rem;">
-                    <p style="color: #004087;padding: 20px 0 20px 0;margin: 0;">اپلیکشن صالحین</p>
+                    <p style="color: #004087;padding: 20px 0 20px 0;margin: 0;"> راهکار جامع فروشگاهی</p>
                 </div>
             </div>
 
@@ -548,7 +548,7 @@
                 <div style="background-color: white;border-radius: 18px;" class="mx-1">
                     <img src="./assets/image/Rectangle 33.svg" alt="" class="img-fluid "
                          style="width: 90%;margin-top: 1rem;">
-                    <p style="color: #004087;padding: 20px 0 20px 0;margin: 0;">اپلیکشن صالحین</p>
+                    <p style="color: #004087;padding: 20px 0 20px 0;margin: 0;"> راهکار سفارش گیر اندروید</p>
                 </div>
             </div>
 
@@ -556,7 +556,7 @@
                 <div style="background-color: white;border-radius: 18px;" class="mx-1">
                     <img src="./assets/image/Rectangle 33.svg" alt="" class="img-fluid "
                          style="width: 90%;margin-top: 1rem;">
-                    <p style="color: #004087;padding: 20px 0 20px 0;margin: 0;">اپلیکشن صالحین</p>
+                    <p style="color: #004087;padding: 20px 0 20px 0;margin: 0;">راهکار نوبت دهی بیمارستان</p>
                 </div>
             </div>
 

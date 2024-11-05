@@ -25,17 +25,22 @@
             <div><p>علیرضا مدنی </p></div>
         </div>
         <div class="col text-center bg-white rounded-4 m-2">
-            <div class="p-3"><img src="./assets/image/questions 1.png" class="img-fluid bg-info " alt=""> </div>
+            <div class="p-3"><img src="./assets/image/personal/45.jpg" class="img-fluid bg-info " alt=""> </div>
             <div><p> آرش میرزایی</p></div>
         </div>
         <div class="col text-center bg-white rounded-4 m-2">
-            <div class="p-3"><img src="./assets/image/personal/photo_2024-11-04_13-07-39.jpg" style="height: 200px" class="img-fluid bg-info " alt=""> </div>
+            <div class="p-3"><img src="./assets/image/personal/98.jpg" class="img-fluid bg-info " alt=""> </div>
+            <div><p> وحید دانشمند </p></div>
+        </div>
+        <div class="col text-center bg-white rounded-4 m-2">
+            <div class="p-3"><img src="./assets/image/personal/mehdi2.jpg"  class="img-fluid bg-info " alt=""> </div>
             <div><p>مهدی رسول نیا</p></div>
         </div>
         <div class="col text-center bg-white rounded-4 m-2">
             <div class="p-3"><img src="./assets/image/questions 1.png" class="img-fluid bg-info " alt=""> </div>
             <div><p>عرفان طباطبایی </p></div>
         </div>
+
 
 
 

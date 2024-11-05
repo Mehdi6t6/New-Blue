@@ -333,7 +333,7 @@
 
     </div>
 
-    <!-- graphic -->
+    <!-- CODING -->
     <div class="container ">
 
         <h3 class="mt-5">برنامه نویسی</h3>
@@ -385,7 +385,7 @@
 
 
         </div>
-
+{{--_____GRAPHIC_____--}}
 
         <h3 class="mt-5"> طراحی گرافیک</h3>
         <ul class="nav nav-underline">
@@ -416,7 +416,7 @@
 
             <div class="col-6 col-md p-1">
                 <div style="background-color: white;border-radius: 18px;" class="mx-1">
-                    <img src="./assets/image/Rectangle 33.svg" alt="" class="img-fluid "
+                    <img src="./assets/image/site graphic/photo_5_2024-11-05_10-02-14.jpg" alt="" class="img-fluid "
                          style="width: 90%;margin-top: 1rem;">
                     <p style="color: #004087;padding: 20px 0 20px 0;margin: 0;">اپلیکشن صالحین</p>
                 </div>
@@ -425,7 +425,7 @@
 
             <div class="col-6 col-md p-1">
                 <div style="background-color: white;border-radius: 18px;" class="mx-1">
-                    <img src="./assets/image/Rectangle 33.svg" alt="" class="img-fluid "
+                    <img src="./assets/image/site graphic/photo_4_2024-11-05_10-02-14.jpg" alt="" class="img-fluid "
                          style="width: 90%;margin-top: 1rem;">
                     <p style="color: #004087;padding: 20px 0 20px 0;margin: 0;">اپلیکشن صالحین</p>
                 </div>
@@ -433,7 +433,7 @@
 
             <div class="col-6 col-md p-1">
                 <div style="background-color: white;border-radius: 18px;" class="mx-1">
-                    <img src="./assets/image/Rectangle 33.svg" alt="" class="img-fluid "
+                    <img src="./assets/image/site graphic/photo_3_2024-11-05_10-02-14.jpg" alt="" class="img-fluid "
                          style="width: 90%;margin-top: 1rem;">
                     <p style="color: #004087;padding: 20px 0 20px 0;margin: 0;">اپلیکشن صالحین</p>
                 </div>
@@ -441,7 +441,7 @@
 
             <div class="col-6 col-md p-1">
                 <div style="background-color: white;border-radius: 18px;" class="mx-1">
-                    <img src="./assets/image/Rectangle 33.svg" alt="" class="img-fluid "
+                    <img src="./assets/image/site graphic/photo_2_2024-11-05_10-02-14.jpg" alt="" class="img-fluid "
                          style="width: 90%;margin-top: 1rem;">
                     <p style="color: #004087;padding: 20px 0 20px 0;margin: 0;">اپلیکشن صالحین</p>
                 </div>

@@ -106,7 +106,7 @@
             <div class="col mt-3">
                 <div><a href="#">
                         <img src="./assets/image/icon/New folder/Category.svg" alt="">
-                        <p class="SmallTxtP">خدمات</p>
+                        <p class="SmallTxtP">محصولات</p>
                     </a></div>
             </div>
 

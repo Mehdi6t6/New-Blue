@@ -5,7 +5,7 @@
 
     <nav class="navbar navbar-expand-lg bg-white">
         <div class="container-fluid">
-            <a class="navbar-brand" href="#"><img src="./assets/image/Group 2.png" style="width: 150px;" alt=""></a>
+            <a class="navbar-brand" href="#"><img src="./assets/image/BLUESOURCEIR.svg" style="width: 150px;" alt=""></a>
 
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                     data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"

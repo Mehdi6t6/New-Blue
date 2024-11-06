@@ -1,7 +1,7 @@
 
 
 
-<div class="container mt-4">
+<div class="container mt-4 d-none d-md-block ">
 
     <nav class="navbar navbar-expand-lg bg-white">
         <div class="container-fluid">

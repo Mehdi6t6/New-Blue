@@ -125,7 +125,7 @@
             <div class="col mt-3">
                 <div><a href="#">
                         <img src="./assets/image/icon/New folder/Document.svg" alt="">
-                        <p class="SmallTxtP">وبلاگ</p>
+                        <p class="SmallTxtP">بلو +</p>
                     </a></div>
 
             </div>
@@ -134,7 +134,7 @@
                 <div>
                     <a href="#">
                         <img src="./assets/image/icon/New folder/3 User.svg" alt="">
-                        <p class="SmallTxtP">درباره ما</p>
+                        <p class="SmallTxtP"> شبکه های اجتماعی</p>
                     </a>
                 </div>
             </div>

@@ -113,7 +113,7 @@
 
 
             <div class="col mt-3">
-                <div><a href="#">
+                <div><a href="{{route('about')}}">
                         <img src="./assets/image/icon/New folder/Call.svg" alt="">
                         <p style="font-size: 13px">تماس با ما</p>
                     </a></div>

@@ -69,6 +69,9 @@ a {
     font-size: 13px;
     color: rgba(71, 71, 71, 0.6);
 }
+.SmallTxtP{
+   font-size: 13px
+}
 
 .iconstyle {
     background-color: rgb(100, 173, 255);

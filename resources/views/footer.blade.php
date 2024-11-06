@@ -106,7 +106,7 @@
             <div class="col mt-3">
                 <div><a href="#">
                         <img src="./assets/image/icon/New folder/Category.svg" alt="">
-                        <p>خدمات</p>
+                        <p class="SmallTxtP">خدمات</p>
                     </a></div>
             </div>
 
@@ -115,7 +115,7 @@
             <div class="col mt-3">
                 <div><a href="{{route('about')}}">
                         <img src="./assets/image/icon/New folder/Call.svg" alt="">
-                        <p style="font-size: 13px">تماس با ما</p>
+                        <p class="SmallTxtP">تماس با ما</p>
                     </a></div>
             </div>
 
@@ -125,7 +125,7 @@
             <div class="col mt-3">
                 <div><a href="#">
                         <img src="./assets/image/icon/New folder/Document.svg" alt="">
-                        <p>وبلاگ</p>
+                        <p class="SmallTxtP">وبلاگ</p>
                     </a></div>
 
             </div>
@@ -134,13 +134,13 @@
                 <div>
                     <a href="#">
                         <img src="./assets/image/icon/New folder/3 User.svg" alt="">
-                        <p>درباره ما</p>
+                        <p class="SmallTxtP">درباره ما</p>
                     </a>
                 </div>
             </div>
 
             <div class="MobilMenu">
-                <a href="#">
+                <a href="{{route('home')}}">
                     <img src="./assets/image/Home.svg" alt="" style="width:40px;">
             </div>
             </a>
